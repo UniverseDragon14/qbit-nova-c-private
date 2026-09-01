@@ -1,5 +1,8 @@
 # Novakutty — QBIT NOVA C
 
+> **Private mirror/archive:** this repository duplicates or checkpoints the public QBIT NOVA C line. The canonical public project is https://github.com/UniverseDragon14/qbit-nova-c. Keep this mirror private unless its branch/history is separately sanitized and intentionally published.
+
+
 [![QBIT NOVA CI](https://github.com/UniverseDragon14/qbit-nova-c/actions/workflows/qbit-nova-ci.yml/badge.svg)](https://github.com/UniverseDragon14/qbit-nova-c/actions/workflows/qbit-nova-ci.yml)
 
 
